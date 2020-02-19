@@ -211,4 +211,8 @@ zpuse.core=>
 You can find lots of useful ways to use zprint at the REPL 
 [here](../types/repl.md).
 
+For [maps](../types/repl.md#maps)
+
+For [vectors](../types/repl.md#vectors)
+
 
