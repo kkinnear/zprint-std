@@ -215,4 +215,6 @@ For [maps](../types/repl.md#maps)
 
 For [vectors](../types/repl.md#vectors)
 
+For [looking at byte values](../types/repl.md#looking-at-byte-values)
+
 
